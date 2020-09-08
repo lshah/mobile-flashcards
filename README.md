@@ -17,7 +17,7 @@ This is the implementation for the final assessment project for Udacity's React 
 
 # Other info
 
-The `_DATA.js` file represents a fake database and methods that let you access the data.
+The `api.js` file represents a fake database and methods that let you access the data.
 
 This project uses the [Create React Native App](https://github.com/expo/create-react-native-app) to bootstrap the project.
 This project also uses [React-native](https://reactnative.dev/) as framework to build the mobile app, [React-Redux](https://react-redux.js.org/) for application state management and [React Router](https://reactrouter.com/web/guides/quick-start) for routing. Emojis are from [Emojipedia](https://emojipedia.org/)
