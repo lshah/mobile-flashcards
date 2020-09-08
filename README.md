@@ -1,4 +1,4 @@
-# Would You Rather Project
+# Mobile Flashcards
 
 This is the implementation for the final assessment project for Udacity's React & Redux course. Mobile Flashcards is a React Native mobile application that lets the user create flashcards of questions and answers that help them study any topic of their interest.
 
