@@ -15,6 +15,7 @@ import { Provider } from 'react-redux';
 import reducer from './reducers';
 import { createStore } from 'redux';
 import { setLocalNotification } from './utils/helpers';
+import { activateKeepAwake } from "expo-keep-awake";
 
 const RouteConfigs = {
   DeckList:{
@@ -99,6 +100,7 @@ export default class App extends Component {
 
   componentDidMount(){
     setLocalNotification();
+    activateKeepAwake();
   }
 
   render(){

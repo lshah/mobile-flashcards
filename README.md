@@ -10,6 +10,10 @@ This is the implementation for the final assessment project for Udacity's React 
 * Start Quiz - Allows the user to run through all the questions in a deck, view and submit answers
 * Results - User can view final results after answering all questions in a deck
 
+# Testing
+
+The project was tested on an actual Andriod phone via Expo app.
+
 # Project Setup
 
 * project dependencies can be installed with `npm install`
@@ -18,8 +22,6 @@ This is the implementation for the final assessment project for Udacity's React 
 # Other info
 
 The `api.js` file represents a fake database and methods that let you access the data.
-
-The project was tested on an actual Andriod device via Expo app.
 
 This project uses the [Create React Native App](https://github.com/expo/create-react-native-app) to bootstrap the project.
 This project also uses [React-native](https://reactnative.dev/) as framework to build the mobile app, [React-Redux](https://react-redux.js.org/) for application state management and [React Router](https://reactrouter.com/web/guides/quick-start) for routing. Emojis are from [Emojipedia](https://emojipedia.org/)
